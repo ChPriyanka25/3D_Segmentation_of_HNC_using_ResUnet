@@ -1,0 +1,1 @@
+This GitHub repository presents a novel approach that integrates the ResUNet model with anisotropic diffusion to effectively address challenges in oral cancer segmentation while reducing image noise. The implementation focuses on enhancing the accuracy and efficiency of the segmentation process for oral cancer images.
